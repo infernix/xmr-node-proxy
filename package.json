@@ -36,7 +36,7 @@
     "uuid": "3.0.1"
   },
   "optionalDependencies": {
-    "cryptonote-util": "git://github.com/Snipa22/node-cryptonote-util.git#xmr-Nan-2.0",
+    "cryptonote-util": "git+https://github.com/infernix/node-cryptonote-util.git#xmr-Nan-2.0-gcc67fix",
     "multi-hashing": "git+https://github.com/Snipa22/node-multi-hashing-aesni.git#v0.1",
     "cryptonight-hashing": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git"
   }
